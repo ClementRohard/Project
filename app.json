@@ -6,5 +6,12 @@
     {
       "url": "https://github.com/heroku/salesforce-buildpack.git"
     }
-  ]
+  ], 
+  "formation": {
+    "web": {
+      "quantity": 2,
+      "size": "performance-m"
+    }
+  }
 }
+
