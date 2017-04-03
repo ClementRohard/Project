@@ -4,6 +4,9 @@
   "LastName": "Demo",
   "Email": "Demo@example.com",
   "Edition": "Developer",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+   "apiVersion": "38.0",
+   "defaultArtifact": "Project",
   "OrgPreferences" : {
     "S1DesktopEnabled" : true
   }
