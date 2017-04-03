@@ -1,0 +1,19 @@
+{
+  "PackageDirectories": [
+    {
+      "Path": "Project",
+      "Default": true
+    }
+  ],
+  "Namespace": "",
+  "SfdcLoginUrl": "https://login.salesforce.com",
+  "SourceApiVersion": "39.0",
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
+    },
+    {
+      "url": "heroku/ruby"
+    }
+  ]
+}

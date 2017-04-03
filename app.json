@@ -1,0 +1,10 @@
+{
+    "name": "Project",
+    "description": "A test",
+    "repository": "https://github.com/ClementRohard/Project.git",
+    "buildpacks": [
+    {
+      "url": "https://github.com/heroku/salesforce-buildpack.git"
+    }
+  ]
+}
