@@ -1,11 +1,8 @@
 {
     "name": "Project",
-    "description": "A test",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "apiVersion": "38.0",
-    "defaultArtifact": "Project",
+    "description": "SlesForce DX deployement Test",
     "repository": "https://github.com/ClementRohard/Project.git",
-    
+    "logo": "https://avatars0.githubusercontent.com/u/464563?v=3&s=200",
     "keywords": [
         "salesforce",
         "salesforcedx",
@@ -15,31 +12,19 @@
     "addons": [
         "salesforce"
     ],
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/salesforce-buildpack"
+        }
+    ],
     "env": {
         "HEROKU_APP_NAME": {
             "description": "safe-beyond-70728",
             "required": true
         },
-        "SFDX_DEV_HUB_AUTH_URL": {            
-            "description": "Required to provision orgs for Review apps and Heroku CI",
-            "required": false
-        },
-        "SFDX_AUTH_URL": {
-            "description": "scratchorg1490965251731@democompany.com",
-            "required": false
+        "SALESFORCE_HUB_URL": {
+            "description": "Required to provision orgs for Review apps",
+            "required": true
         }
-    },
- 
-    "buildpacks": [
-    {
-      "url": "https://github.com/heroku/salesforce-buildpack.git"
     }
-  ],  
-  "formation": {
-    "web": {
-      "quantity": 2,
-      "size": "performance-m"
-    }
-  }   
 }
-
