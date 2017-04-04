@@ -28,7 +28,7 @@
         },
         "SFDX_AUTH_URL": {
             "description": "scratchorg1490965251731@democompany.com",
-            "required": true
+            "required": true,
         }
     }
 }
