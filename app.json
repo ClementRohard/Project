@@ -22,8 +22,17 @@
             "description": "safe-beyond-70728",
             "required": true
         },
+<<<<<<< HEAD
         "SALESFORCE_HUB_URL": {
             "description": "https://site-connect-5930-dev-ed.cs70.my.salesforce.com/secur/frontdoor.jsp?sid=00D3D000000CsAE!ARMAQC7wiPWG1CbjUQ7bshzd9xYPGVRIhI1NCOutoALaljQyZtI2SIbzrEpK3gSdA95B.2nQfJrpykWfuEFcC9RWJ.UqPmli",
+=======
+        "SFDX_DEV_HUB_AUTH_URL": {            
+            "description": "Required to provision orgs for Review apps and Heroku CI",
+            "required": false
+        },
+        "SFDX_AUTH_URL": {
+            "description": "scratchorg1490965251731@democompany.com",
+>>>>>>> branch 'master' of https://github.com/ClementRohard/Project.git
             "required": true
         }
     }
