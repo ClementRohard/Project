@@ -3,8 +3,33 @@
     "description": "A test",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "apiVersion": "38.0",
-    "defaultArtifact": "force-app",
+    "defaultArtifact": "Project",
     "repository": "https://github.com/ClementRohard/Project.git",
+    
+    "keywords": [
+        "salesforce",
+        "salesforcedx",
+        "force.com",
+        "heroku"
+    ],
+    "addons": [
+        "salesforce"
+    ],
+    "env": {
+        "HEROKU_APP_NAME": {
+            "description": "safe-beyond-70728",
+            "required": true
+        },
+        "SFDX_DEV_HUB_AUTH_URL": {            
+            "description": "Required to provision orgs for Review apps and Heroku CI",
+            "required": false
+        },
+        "SFDX_AUTH_URL": {
+            "description": "Required to connect orgs for staging and production apps",
+            "required": false
+        }
+    },
+ 
     "buildpacks": [
     {
       "url": "https://github.com/heroku/salesforce-buildpack.git"
