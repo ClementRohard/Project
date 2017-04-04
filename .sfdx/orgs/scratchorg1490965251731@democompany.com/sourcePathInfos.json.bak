@@ -2,7 +2,7 @@
     [
         "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -17,7 +17,7 @@
     [
         "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -32,7 +32,7 @@
     [
         "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -47,7 +47,7 @@
     [
         "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default\\pages",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default\\pages",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -62,7 +62,7 @@
     [
         "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default\\pages\\Accueil_Page.page",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default\\pages\\Accueil_Page.page",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -77,7 +77,7 @@
     [
         "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default\\pages\\Accueil_Page.page-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default\\pages\\Accueil_Page.page-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -92,7 +92,7 @@
     [
         "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default\\pages\\Login_Page.page",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default\\pages\\Login_Page.page",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -107,7 +107,7 @@
     [
         "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default\\pages\\Login_Page.page-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default\\pages\\Login_Page.page-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -122,7 +122,7 @@
     [
         "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default\\pages\\Other_Page.page",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default\\pages\\Other_Page.page",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -137,7 +137,7 @@
     [
         "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default\\pages\\Other_Page.page-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien\\Project\\main\\default\\pages\\Other_Page.page-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -152,7 +152,7 @@
     [
         "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\clement.rohard\\WorkSpace\\WorkspaceSebastien",
             "isDirectory": true,
             "isMetadataFile": false,
