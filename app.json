@@ -1,6 +1,9 @@
 {
     "name": "Project",
     "description": "A test",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+   "apiVersion": "38.0",
+   "defaultArtifact": "force-app",
     "repository": "https://github.com/ClementRohard/Project.git",
     "buildpacks": [
     {
@@ -12,6 +15,6 @@
       "quantity": 2,
       "size": "performance-m"
     }
-  }
+  }   
 }
 
