@@ -25,7 +25,7 @@
             "required": false
         },
         "SFDX_AUTH_URL": {
-            "description": "Required to connect orgs for staging and production apps",
+            "description": "scratchorg1490965251731@democompany.com",
             "required": false
         }
     },
