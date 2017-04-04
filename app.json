@@ -23,7 +23,7 @@
             "required": true
         },
         "SALESFORCE_HUB_URL": {
-            "description": "Required to provision orgs for Review apps",
+            "description": "https://site-connect-5930-dev-ed.cs70.my.salesforce.com/secur/frontdoor.jsp?sid=00D3D000000CsAE!ARMAQC7wiPWG1CbjUQ7bshzd9xYPGVRIhI1NCOutoALaljQyZtI2SIbzrEpK3gSdA95B.2nQfJrpykWfuEFcC9RWJ.UqPmli",
             "required": true
         }
     }
