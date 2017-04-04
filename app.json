@@ -2,14 +2,14 @@
     "name": "Project",
     "description": "A test",
     "sfdcLoginUrl": "https://login.salesforce.com",
-   "apiVersion": "38.0",
-   "defaultArtifact": "force-app",
+    "apiVersion": "38.0",
+    "defaultArtifact": "force-app",
     "repository": "https://github.com/ClementRohard/Project.git",
     "buildpacks": [
     {
-      "url": "https://github.com/SalesforceFoundation/simple-salesforce-dx-buildpack.git"
+      "url": "https://github.com/heroku/salesforce-buildpack.git"
     }
-  ], 
+  ],  
   "formation": {
     "web": {
       "quantity": 2,
